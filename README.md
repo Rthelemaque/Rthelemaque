@@ -1,11 +1,11 @@
 DIGITAL DESIGNER & DEVELOPER :sunglasses:
 ---------------------------
 
-Talented <b> DIGITAL DESIGNER & DEVELOPER</b>, passionate about crafting exceptional digital experiences. With a strong foundation in design aesthetics and cutting-edge development techniques, I blend creativity and functionality to deliver solutions that look stunning and perform flawlessly.<b> MY EXPERTISE ARE WEBSITE & APP DESIGN, USER EXPERIENCE OPTIMIZATION, SEARCH ENGINE OPTIMIZATION (SEO), AND SASS DEVELOPMENT, ENSURING THAT EVERY PROJECT I TAKE ON IS TAILORED TO YOUR NEEDS</b>. When you choose to work with me, you’re partnering with someone who is dedicated to bringing your ideas to life, staying ahead of industry trends, and exceeding expectations. Whether you need a sleek website, a user-friendly application, or a complete digital transformation, I am the perfect choice to elevate your brand and help you achieve your goals.
+Talented <b> DIGITAL DESIGNER & DEVELOPER</b>, passionate about crafting exceptional digital experiences. With a strong foundation in design aesthetics and cutting-edge development techniques, I blend creativity and functionality to deliver solutions that look stunning and perform flawlessly.<b> MY EXPERTISE ARE WEBSITE & APP DESIGN, USER EXPERIENCE OPTIMIZATION, SEARCH ENGINE OPTIMIZATION (SEO), AND SAAS DEVELOPMENT, ENSURING THAT EVERY PROJECT I TAKE ON IS TAILORED TO YOUR NEEDS</b>. When you choose to work with me, you’re partnering with someone who is dedicated to bringing your ideas to life, staying ahead of industry trends, and exceeding expectations. Whether you need a sleek website, a user-friendly application, or a complete digital transformation, I am the perfect choice to elevate your brand and help you achieve your goals.
 
 * 🖥️  View My Digital Projects at [RalphThelemaque](http://www.RalphThelemaque.com)
 * ✉️  For Collaboration you can contact me at [rthelemaqe@gmail.com](mailto:rthelemaqe@gmail.com)
-* 🤝  <b>I'm open to collaborating on Website & Apps Development, Sass Development, and Artificial Intelligence Projects</b> 
+* 🤝  <b>I'm open to collaborating on Website & Apps Development, SAAS Development, and Artificial Intelligence Projects</b> 
 
 ### Skills
 
