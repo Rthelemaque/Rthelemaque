@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ralph Thelemaque
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I"m Ralph Thelemaque
 ========================================================================================================================================
 
-Full-Stack Developer
---------------------
+DIGITAL DESIGNER & DEVELOPER :sunglasses:
+---------------------------
 
-I am a talented digital designer and developer passionate about crafting exceptional digital experiences. With a strong foundation in both design aesthetics and cutting-edge development techniques, I seamlessly blend creativity and functionality to deliver solutions that not only look stunning but also perform flawlessly. My expertise spans web design, user experience optimization, and robust development, ensuring that every project I take on is tailored to meet your unique needs. When you choose to work with me, you’re partnering with someone who is dedicated to bringing your ideas to life, staying ahead of industry trends, and exceeding expectations. Whether you need a sleek website, a user-friendly application, or a complete digital transformation, I am the perfect choice to elevate your brand and help you achieve your goals.
+I am a talented <b> DIGITAL DESIGNER & DEVELOPER</b> passionate about crafting exceptional digital experiences. With a strong foundation in design aesthetics and cutting-edge development techniques, I blend creativity and functionality to deliver solutions that look stunning and perform flawlessly.<b> MY EXPERTISE ARE WEBSITE & APP DESIGN, USER EXPERIENCE OPTIMIZATION, SEARCH ENGINE OPTIMIZATION (SEO), AND SASS DEVELOPMENT, ENSURING THAT EVERY PROJECT I TAKE ON IS TAILORED TO YOUR NEEDS</b>. When you choose to work with me, you’re partnering with someone who is dedicated to bringing your ideas to life, staying ahead of industry trends, and exceeding expectations. Whether you need a sleek website, a user-friendly application, or a complete digital transformation, I am the perfect choice to elevate your brand and help you achieve your goals.
 
-* 🌍  I'm based in Orlando, FL
-* 🖥️  See my portfolio at [RalphThelemaque](http://www.RalphThelemaque.com)
-* ✉️  You can contact me at [rthelemaqe@gmail.com](mailto:rthelemaqe@gmail.com)
-* 🧠  I'm learning Artificial Intelligence (A.I)
-* 🤝  I'm open to collaborating on Website - Apps Development, Artificial Intelligence Projects.
+* 🖥️  View My Digital Projects at [RalphThelemaque](http://www.RalphThelemaque.com)
+* ✉️  For Collaboration you can contact me at [rthelemaqe@gmail.com](mailto:rthelemaqe@gmail.com)
+* 🤝  <b>I'm open to collaborating on Website & Apps Development, Sass Development, and Artificial Intelligence Projects</b> 
 
 ### Skills
 
